@@ -1,0 +1,12 @@
+_work/
+__pycache__/
+LOCAL_PUBLISH_CHECKLIST.md
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+~$*
+Thumbs.db
+.DS_Store
