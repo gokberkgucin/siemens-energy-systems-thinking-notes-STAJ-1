@@ -1,0 +1,27 @@
+[
+  {
+    "expected_path": "README.md",
+    "resolved_path": "README.md",
+    "resolution_reason": "birebir bulundu"
+  },
+  {
+    "expected_path": "docs/tarih-olcek-ve-bakim.md",
+    "resolved_path": "docs/tarih-olcek-ve-bakim.md",
+    "resolution_reason": "birebir bulundu"
+  },
+  {
+    "expected_path": "docs/hidrojen-ve-enerji-depolama.md",
+    "resolved_path": "docs/hidrojen-ve-enerji-depolama.md",
+    "resolution_reason": "birebir bulundu"
+  },
+  {
+    "expected_path": "docs/verimlilik-hipotez-ve-insan-makine.md",
+    "resolved_path": "docs/verimlilik-hipotez-ve-insan-makine.md",
+    "resolution_reason": "birebir bulundu"
+  },
+  {
+    "expected_path": "docs/kaynakca-ve-sekil-notlari.md",
+    "resolved_path": "docs/kaynakca-ve-sekil-notlari.md",
+    "resolution_reason": "birebir bulundu"
+  }
+]
