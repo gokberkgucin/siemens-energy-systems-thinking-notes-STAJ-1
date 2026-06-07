@@ -77,7 +77,11 @@ def first_useful_hunk(base_ref: str, path: str) -> tuple[list[str], list[str]]:
                 after.append(line[1:])
         before_text = "\n".join(before).strip()
         after_text = "\n".join(after).strip()
-        if len(after_text) >= 80 and (before_text or "README.md" in path):
+        redacted_before = redact(before_text).strip()
+        redacted_after = redact(after_text).strip()
+        if len(after_text) >= 80 and redacted_before != redacted_after and (before_text or "README.md" in path):
+            if not before:
+                before = ["[base commit'te bu blok yoktu]"]
             return before[:14], after[:18]
     return ["[base commit'te bu dosyada uygun kısa diff bloğu bulunamadı]"], ["[son halinde uygun kısa diff bloğu bulunamadı]"]
 

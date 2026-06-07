@@ -1,0 +1,7 @@
+﻿f13d86c (HEAD -> main) test(verification): notebook senkronizasyonu ve markdown dogrulamalari
+597a294 fix(markdown): gorsel pathlerini ve github render sorunlarini duzelt
+99dda11 fix(privacy): kisi adlarini sansurle ve gorunsel alt metinlerini temizle
+8f68231 feat(figures): kullanilmayan notebook gorsellerini dogru yerlere yerlestir
+9084ee1 feat(content): notebooktan eksik metin bloklarini geri yukle
+a6782a6 chore(correction): kaynak envanteri ve notebook-repo fark matrisi
+f1f245e (origin/main) Prepare Siemens energy systems thinking notes
