@@ -132,7 +132,7 @@ Ama ben o sonuca hemen gitmek istemedim. Önce şunu sordum:
 
 Bu soruların arkasında şu şüphe vardı: Eğer kontrol sistemi çok gelişmişse ve birçok işlem otomatikleşmişse, operatörün işi dışarıdan bakınca basit görünebilir. Fakat basit görünmesi, gerçekten basit olduğu anlamına gelmeyebilir.
 
-![T3000 kontrol odası](../assets/figures/verimlilik/03-t3000-kontrol-odasi.jpeg)
+![Operatör rolünün soyut değil gerçek bir kontrol ortamında düşünülmesini sağlayan T3000 görseli](../assets/figures/verimlilik/03-t3000-kontrol-odasi.jpeg)
 
 *Şekil 1. T3000 bağlamında kontrol odası görüntüsü. Bu görsel iddiayı kanıtlamak için değil; operatörün soyut bir "kullanıcı" değil, gerçek bir operasyon ortamının parçası olduğunu hatırlatmak için burada. Kaynak durumu: kısmen net.*
 
@@ -176,7 +176,7 @@ $$
 
 Bu formülü burada çözmeye çalışmıyorum. Benim için asıl öğrenme noktası şuydu: elektriksel yük, mekanik dünyada görünmez bir direnç gibi davranabiliyor. Jeneratör milinin "kolay dönmesi" ile santralin "kolay güç üretmesi" aynı şey değil.
 
-![Yük bağlı devre sezgisi](../assets/figures/verimlilik/04-lorentz-yuk-devresi.png)
+![Jeneratör yükünü mekanik ve elektriksel model arasında bağlayan basit devre sezgisi](../assets/figures/verimlilik/04-lorentz-yuk-devresi.png)
 
 *Şekil 2. Yük bağlı devre fikrini basitçe düşünmek için kullandığım görsel. Jeneratörün fiziksel olarak tam modeli değil; sadece yük kavramını akılda tutmak için bir ara görsel. Kaynak durumu: kısmen net.*
 

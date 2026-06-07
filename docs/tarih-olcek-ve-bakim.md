@@ -32,11 +32,11 @@ Silahtarağa Elektrik Santrali bu açıdan daha somut bir örnek. Temeli 1911'de
 
 Bu soru ilk bakışta basit. Santral eski, teknoloji değişti, ihtiyaç değişti. Ama bu cevabı biraz daha teknik hale getirmek istedim. Enerji Bakanlığı'nın termik ve hidroelektrik santrallerinde enerji verimliliğiyle ilgili raporundan aldığım bir grafik, santral yaşı ile verim arasındaki ilişkiyi düşünmeme yardım etmişti.
 
-![Silahtarağa Santrali](../assets/figures/tarih-olcek/01-silahtaraga-santrali.jpeg)
+![Silahtarağa Santrali'nin teknoloji ömrü ve endüstriyel miras sorusunu açan görseli](../assets/figures/tarih-olcek/01-silahtaraga-santrali.jpeg)
 
 *Şekil 1. Silahtarağa Santrali. Burada şirket tarihi anlatmaktan çok, bir enerji altyapısının zamanla nasıl başka bir anlama geçtiğini düşünmek için duruyor.*
 
-![Santral yaşı ve verim ilişkisi](../assets/figures/tarih-olcek/02-santral-yasi-verim.jpg)
+![Santral yaşının verim ve işletme kararıyla ilişkisini düşündüren grafik](../assets/figures/tarih-olcek/02-santral-yasi-verim.jpg)
 
 *Şekil 2. Staj defterinde Enerji Bakanlığı raporuna bağlanan bu grafik, santral yaşlandıkça verim meselesinin yalnız tarihsel değil, teknik ve ekonomik bir konu olduğunu düşündürmüştü. Raporun yıl bilgisini bu turda netleştiremediğim için burada tarih yazmıyorum.*
 
@@ -76,13 +76,13 @@ Tek başına rakamlar, o alanın uzmanı olmayan biri için çok da anlamlı olm
 
 Önce küçük bir GPS cihazı örneği dikkatimi çekmişti. Üretici, cihazın ne kadar küçük olduğunu anlatmak için yanına bozuk para koyuyor. Çünkü "küçük" demek yetmiyor; küçüklüğü sezilebilir hale getirmek gerekiyor.
 
-![GPS cihazı ve bozuk para ile ölçek kurma](../assets/figures/tarih-olcek/05-gps-bozuk-para.jpeg)
+![Soyut büyüklüğü bilinen bir nesneyle kurmayı gösteren GPS ve bozuk para görseli](../assets/figures/tarih-olcek/05-gps-bozuk-para.jpeg)
 
 *Şekil 3. Bu görsel Siemens Energy'nin finansal büyüklüğünü kanıtlamıyor. Benim için işe yarayan tarafı, alışılmadık bir büyüklüğü bilinen bir nesneyle kıyaslama fikri.*
 
 Benzer şekilde, bir dinozor türünün kaç metre olduğunu okumak başka şey; yanında insan siluetiyle görmek başka şey. Bir dinozor bilimci değilsek, sadece sayıdan ölçeği zihinde kurmak kolay olmuyor.
 
-![Dinozor ve insan ölçeği](../assets/figures/tarih-olcek/06-dinozor-insan-olcek.jpg)
+![Sayısal ölçeğin insan siluetiyle nasıl sezilir hale geldiğini gösteren dinozor karşılaştırması](../assets/figures/tarih-olcek/06-dinozor-insan-olcek.jpg)
 
 *Şekil 4. İnsan silueti girince ölçü daha hızlı oturuyor. Finansal büyüklükleri düşünürken aradığım sezgi de buna benzerdi.*
 
@@ -108,7 +108,7 @@ Gaz türbinleriyle ilgili bilgilendirme toplantısında duyduğum bir bilgi, def
 
 Bence olabilir. En azından bir gaz türbini gibi büyük ve pahalı bir makine için sadece maksimum güç, verim veya teknik kapasite yetmiyor. Bakım aralığı, bakım süresi, bakım için gereken insan sayısı ve duruş maliyeti de ürünün gerçek hayattaki başarımına dahil oluyor.
 
-![Gaz türbini bakım/montaj ölçeği](../assets/figures/tarih-olcek/09-gaz-turbini-bakim.jpeg)
+![Gaz türbini bakımının insan, zaman ve duruş maliyetiyle birlikte okunmasını sağlayan görsel](../assets/figures/tarih-olcek/09-gaz-turbini-bakim.jpeg)
 
 *Şekil 5. Bu görsel bakım süresi bilgisini kanıtlamıyor. Sadece gaz türbini bakımının küçük bir servis işi olmadığını sezdiriyor: insan var, zaman var, duruş maliyeti var.*
 

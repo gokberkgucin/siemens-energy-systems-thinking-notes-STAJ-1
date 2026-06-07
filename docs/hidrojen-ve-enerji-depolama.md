@@ -23,7 +23,7 @@ Bu yüzden hidrojenin rengi sadece isimlendirme gibi görünse de aslında üret
 | Mavi hidrojen | Fosil kaynaklardan üretilir; çıkan CO2'nin tutulup saklanması hedeflenir. |
 | Yeşil hidrojen | Yenilenebilir elektrikle elektroliz yapılarak sudan üretilir. |
 
-![Hidrojen üretim yolları](../assets/figures/hidrojen/01-hidrojen-uretim-yollari.jpeg)
+![Temiz hidrojen iddiasının üretim yoluna bağlı olduğunu gösteren üretim şeması](../assets/figures/hidrojen/01-hidrojen-uretim-yollari.jpeg)
 
 *Şekil 1. Hidrojen renkleri burada uzun bir tanım listesi olsun diye durmuyor. "Temiz hidrojen" dediğimiz şeyin üretim yoluna bağlı olduğunu hızlıca hatırlatıyor. Kaynak durumu kısmen net.*
 
@@ -83,11 +83,11 @@ ABD tarafında NREL'in hidrojen üretimi ve yakıt hücreleri için bir laboratu
 
 Defterde bu yüzden iki NREL güneş hücresi verimlilik çizelgesini yan yana düşünmüştüm. Biri 2014 ders notundan, diğeri 2022'de indirdiğim güncel çizelgedendi. Güneş hücrelerinin farklı türlerinde verimliliklerin artması, yeni hücre türlerinin eklenmesi ve araştırma yapan kurum sayısının çoğalması bende şu fikri doğurmuştu: Bir teknolojinin bugünkü verimi düşük diye, gelecekteki potansiyelini tamamen kapatmak doğru olmayabilir.
 
-![2014 tarihli NREL güneş hücresi verimlilik çizelgesi](../assets/figures/hidrojen/04-nrel-pv-2014.JPG)
+![Teknoloji eğrisini hatırlatmak için kullanılan 2014 NREL verimlilik çizelgesi](../assets/figures/hidrojen/04-nrel-pv-2014.JPG)
 
 *Şekil — Notebook'ta hidrojen Ar-Ge haberini okurken aklıma gelen eski NREL çizelgesi. Hidrojenin kendisini değil, teknoloji eğrisi fikrini taşımak için burada.*
 
-![2022 tarihli NREL güneş hücresi verimlilik çizelgesi](../assets/figures/hidrojen/05-nrel-pv-2022.JPG)
+![Teknoloji gelişiminin zamanla değiştiğini düşündüren 2022 NREL verimlilik çizelgesi](../assets/figures/hidrojen/05-nrel-pv-2022.JPG)
 
 *Şekil — Güncel çizelgeyle birlikte bakınca, teknolojilerin sabit kalmadığını daha görünür kılıyor. Bu, hidrojen eleştirisini geçersiz kılmıyor; sadece bugünkü maliyet/verim bilgisini tarihsel bir teknoloji eğrisiyle birlikte okumaya zorluyor.*
 
@@ -97,7 +97,7 @@ Hidrojenin en güçlü eleştirilerinden biri verimlilik meselesi. Kabaca şöyl
 
 Bu eleştiri önemli. Hatta ilk bakışta oldukça ikna edici.
 
-![Hidrojen verimlilik zinciri](../assets/figures/hidrojen/06-hidrojen-verimlilik-zinciri.jpg)
+![Hidrojen zincirindeki dönüşüm kayıplarının itirazı nereden doğurduğunu gösteren görsel](../assets/figures/hidrojen/06-hidrojen-verimlilik-zinciri.jpg)
 
 *Şekil 2. Bu görsel hidrojen zincirindeki dönüşüm kayıplarını gösteriyor. Tek başına "hidrojen kötüdür" demek için değil, itirazın nereden geldiğini görmek için kullanıyorum.*
 
@@ -113,7 +113,7 @@ Hidrojen için "yenilenebilir elektrikten tekerleğe kadar çok yüksek kayıp v
 
 Enerji Bakanlığı raporuyla ilişkilendirdiğim bir grafikte, hidrojen dışındaki bazı enerji yollarında da üretimden kullanıma kadar ciddi kayıplar olduğu görülüyordu. Defterde bu yüzden şu ihtimali yazmıştım: Tek bir zincire bakıp hemen hüküm vermek yanıltıcı olabilir.
 
-![Üretimden kullanıma enerji kayıpları](../assets/figures/hidrojen/07-enerji-kayiplari-karsilastirma.jpg)
+![Hidrojen eleştirisini başka enerji zincirleriyle yan yana düşündüren kayıp karşılaştırması](../assets/figures/hidrojen/07-enerji-kayiplari-karsilastirma.jpg)
 
 *Şekil 3. Bu görsel hidrojen eleştirisini başka enerji zincirleriyle yan yana düşünmek için var. Tek bir dönüşüm zincirini alıp oradan hemen hüküm vermemek gerekiyor.*
 
@@ -141,7 +141,7 @@ Enerji ihtiyacımızı sadece yenilenebilir kaynaklardan elde etmek istiyorsak, 
 
 Çünkü güneş ve rüzgar üretimi talep ile aynı anda ve aynı miktarda gelmiyor. Bazı saatlerde üretim fazla olabilir; bazı saatlerde talebi karşılamak zorlaşabilir. Defterde kullandığım grafik bunu görsel olarak anlatıyordu.
 
-![Günlük talep ve yenilenebilir üretim dalgalanması](../assets/figures/hidrojen/09-gunluk-talep-depolama.png)
+![Yenilenebilir üretim dalgalanması ile depolama ihtiyacını ilişkilendiren talep grafiği](../assets/figures/hidrojen/09-gunluk-talep-depolama.png)
 
 *Şekil 4. Bu görsel benim için şu soruyu açıyor: Talep ile üretim aynı saatlerde örtüşmüyorsa, fazla enerjiyi ne yapacağız? Hidrojen burada araç yakıtından çok depolama başlığına bağlanıyor.*
 
