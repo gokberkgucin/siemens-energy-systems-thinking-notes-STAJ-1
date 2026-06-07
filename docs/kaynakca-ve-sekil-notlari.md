@@ -60,26 +60,39 @@ Bu bölümdeki maddeler staj defterinde geçti, ama final yazılarda kritik iddi
 | 34 | İlber Ortaylı, "avusturyalıler", 1999. | Kayıt eksik ve doğrulanmamış. Final yazılarda kullanılmadı. |
 | 35 | Uday M. Apte, Richard B. Chase, "A history of research in service operations: What's the big idea?", Elsevier, 2002. | Staj kaynakçasında var; final yazıların ana argümanında kullanılmadı. Gerekirse daha sonra doğrulanmalı. |
 | 36 | W. Chan Kim, Renée Mauborgne, "Adil Süreç", *Harvard Business Review*, 1997. | Staj kaynakçasında var; final yazıların ana argümanında kullanılmadı. Gerekirse daha sonra doğrulanmalı. |
-| - | Kemal Buhan, kişisel görüşme, Eylül 2022. | Eskişehir/Turhal buhar türbinleri bağlamında defterde geçti. Yazıda tanıklık gibi ele alındı; teknik kanıt gibi kullanılmadı. |
-| - | Ertuğrul Bey'in aktardığı bilgi. | Footnote içinde geçti. Notebook içinde geçti, doğrulama gerekebilir. |
-| - | Anıl Bey ile soru-cevap. | T3000, jeneratör dönüş hızı, Lorentz ve yük değişimleri bağlamında defterde geçti. Kişisel öğrenme anı olarak kullanıldı; kaynak iddiası gibi sunulmadı. |
-| - | Afşin Termik Santrali kazası anlatısı. | Anıl Bey'in aktarımı olarak defterde geçti. Notebook içinde geçti, doğrulama gerekebilir. Final yazıda kaza ayrıntısı kanıt gibi büyütülmedi. |
+| - | `[SANSÜR]`, kişisel görüşme, Eylül 2022. | Eskişehir/Turhal buhar türbinleri bağlamında defterde geçti. Yazıda tanıklık gibi ele alındı; teknik kanıt gibi kullanılmadı. |
+| - | `[SANSÜR]` tarafından aktarılan bilgi. | Footnote içinde geçti. Notebook içinde geçti, doğrulama gerekebilir. |
+| - | `[SANSÜR]` ile soru-cevap. | T3000, jeneratör dönüş hızı, Lorentz ve yük değişimleri bağlamında defterde geçti. Kişisel öğrenme anı olarak kullanıldı; kaynak iddiası gibi sunulmadı. |
+| - | Afşin Termik Santrali kazası anlatısı. | `[SANSÜR]` aktarımı olarak defterde geçti. Notebook içinde geçti, doğrulama gerekebilir. Final yazıda kaza ayrıntısı kanıt gibi büyütülmedi. |
 
 ## Finalde Kullanılan Görseller
 
-| Görsel adı | Kullanıldığı dosya | Kısa açıklama | Kaynak notu |
-|---|---|---|---|
-| `tarih-silahtaraga-santrali.jpeg` | `docs/tarih-olcek-ve-bakim.md` | Silahtarağa Santrali'ni tarihsel iz ve teknolojik ömür sorusuna bağlamak için kullanıldı. | Ham görsel: `ek09_img_07_silahtaraga_santrali_dis_gorunum.jpeg`. Kaynakça [1] ile ilişkili kabul edildi; özgün görsel kaynağı kısmen net. |
-| `tarih-santral-yasi-kullanilabilirlik.jpg` | `docs/tarih-olcek-ve-bakim.md` | Santral yaşı ile verim ilişkisini düşünmek için kullanıldı. | Ham görsel: `ek09_img_05_santral_yasi_kullanilabilirlik_grafigi.jpg`. Kaynakça [2] ile ilişkili; rapor adı doğrulandı, yıl bilgisi net olmadığı için metinde tarih yazılmadı. |
-| `olcek-gps-bozuk-para.jpeg` | `docs/tarih-olcek-ve-bakim.md` | Soyut büyüklüğü bilinen nesneyle kıyaslama fikrini gösteriyor. | Ham görsel: `ek09_img_21_gps_cihazi_bozuk_para_olcek.jpeg`. Notebook içinde geçti; özgün kaynak doğrulama gerektirebilir. Kanıt değil, anlatım yöntemi görseli. |
-| `olcek-dinozor-insan.jpg` | `docs/tarih-olcek-ve-bakim.md` | Ölçek hissini insan siluetiyle kurma fikrini taşıyor. | Ham görsel: `ek09_img_22_dinozor_insan_olcek_karsilastirma.jpg`. Kaynakça [3] ile ilişkili kabul edildi; doğrulama gerekebilir. |
-| `operasyon-gaz-turbini-bakim.jpeg` | `docs/tarih-olcek-ve-bakim.md` | Gaz türbini bakımının fiziksel ve operasyonel ölçeğini sezdiriyor. | Ham görsel: `ek09_img_12_gaz_turbini_montaj_sahasi.jpeg`. Notebook içinde geçti; özgün kaynak kısmen net. Bakım süresi bilgisinin kanıtı değil. |
-| `hidrojen-uretim-yollari.jpeg` | `docs/hidrojen-ve-enerji-depolama.md` | Kahverengi/gri/mavi/yeşil hidrojen üretim yollarını hızlıca ayırmak için kullanıldı. | Ham görsel: `ek09_img_29_hidrojen_renkleri_uretim_yollari.jpeg`. Kaynak durumu kısmen net; doğrulama gerekebilir. |
-| `hidrojen-verimlilik-zinciri.jpg` | `docs/hidrojen-ve-enerji-depolama.md` | Hidrojen zincirindeki dönüşüm kayıplarını göstermek için kullanıldı. | Ham görsel: `ek09_img_47_hidrojen_verimlilik_orani_grafigi.jpg`. Notebook içinde geçti; kaynak durumu kısmen net. Nihai hüküm için tek başına kullanılmadı. |
-| `enerji-kayiplari-karsilastirma.jpg` | `docs/hidrojen-ve-enerji-depolama.md` | Hidrojen kaybını başka enerji zincirleriyle yan yana düşünmek için kullanıldı. | Ham görsel: `ek09_img_50_uretimden_kullanima_enerji_kayiplari.jpg`. Kaynakça [2] ile ilişkili kabul edildi; görsel-kaynak eşleşmesi kısmen net olduğu için metinde kesin hüküm dayanağı yapılmadı. |
-| `hidrojen-gunluk-talep-depolama.png` | `docs/hidrojen-ve-enerji-depolama.md` | Güneş/rüzgar üretimi ile talep arasındaki zaman uyuşmazlığını ve depolama ihtiyacını gösteriyor. | Ham görsel: `ek09_img_51_gunluk_talep_gunes_ruzgar_cikti_grafigi.png`. Kaynakça [25] ile ilişkili; doğrulama gerekebilir. |
-| `t3000-kontrol-odasi.jpeg` | `docs/verimlilik-hipotez-ve-insan-makine.md` | Operatörün soyut bir kullanıcı değil, operasyon ortamının içinde duran biri olduğunu hatırlatıyor. | Ham görsel: `ek09_img_11_t3000_kontrol_odasi.jpeg`. Notebook içinde geçti; kaynak durumu kısmen net. İddia kanıtı değil, bağlam görseli. |
-| `lorentz-yuk-devresi.png` | `docs/verimlilik-hipotez-ve-insan-makine.md` | Yük direnci fikrini basit devre üzerinden akılda tutmak için kullanıldı. | Ham görsel: `ek09_img_60_voltaj_kaynagi_yuk_devresi.png`. Kaynakça [32] ile ilişkili. Fiziksel tam model gibi sunulmamalı. |
+Bu tabloda `source_image_id`, `_work/correction/inventory/image_manifest.csv` içindeki görsel kimliğine karşılık gelir. Görseller orijinal binary dosyalardan taşındı/kopyalandı; crop, OCR veya yeniden çizim yapılmadı.
+
+| final_path | source_image_id | kullanıldığı_dosya | ilgili_bölüm | kaynak_notu |
+|---|---|---|---|---|
+| `assets/figures/tarih-olcek/01-silahtaraga-santrali.jpeg` | `nb_img_007` | `docs/tarih-olcek-ve-bakim.md` | Silahtarağa | Kaynakça [1] ile ilişkili kabul edildi; özgün görsel kaynağı kısmen net. |
+| `assets/figures/tarih-olcek/02-santral-yasi-verim.jpg` | `nb_img_005` | `docs/tarih-olcek-ve-bakim.md` | Santral yaşı/verim | Kaynakça [2] ile ilişkili; rapor yılı net olmadığı için metinde tarih yazılmadı. |
+| `assets/figures/tarih-olcek/03-siemens-sirket-yapisi.jpg` | `nb_img_003` | `docs/tarih-olcek-ve-bakim.md` | Şirket yapısı haritası | Şirket tanıtımı değil, notebook başlıklarının hangi iş kollarına bağlandığını göstermek için kullanıldı. |
+| `assets/figures/tarih-olcek/04-silahtaraga-tarihsel-gorunum.jpeg` | `nb_img_008` | `docs/tarih-olcek-ve-bakim.md` | Tarihsel altyapı | Silahtarağa'nın tarihsel enerji altyapısı olarak okunmasına hizmet ediyor; kaynak durumu kısmen net. |
+| `assets/figures/tarih-olcek/05-gps-bozuk-para.jpeg` | `nb_img_021` | `docs/tarih-olcek-ve-bakim.md` | Ölçek analojisi | Kanıt değil; bilinmeyen büyüklüğü bilinen nesneyle kıyaslama yöntemini gösteriyor. |
+| `assets/figures/tarih-olcek/06-dinozor-insan-olcek.jpg` | `nb_img_022` | `docs/tarih-olcek-ve-bakim.md` | Ölçek analojisi | Kaynakça [3] ile ilişkili kabul edildi; doğrulama gerekebilir. |
+| `assets/figures/tarih-olcek/07-finansal-olcek-denklemi.JPG` | `nb_img_024` | `docs/tarih-olcek-ve-bakim.md` | Finansal ölçek | Notebook'taki şirket/logolarla ciro eşitleme denemesi; sıralama kanıtı değil, ölçek kurma yöntemi. |
+| `assets/figures/tarih-olcek/08-seker-fabrikasi-buhar-turbini.jpg` | `nb_img_014` | `docs/tarih-olcek-ve-bakim.md` | Eskişehir/Turhal | Kişisel tanıklık bağlamındaki tarihsel üretim altyapısı izi; teknik kanıt gibi kullanılmadı. |
+| `assets/figures/tarih-olcek/09-gaz-turbini-bakim.jpeg` | `nb_img_012` | `docs/tarih-olcek-ve-bakim.md` | Gaz türbini bakımı | Bakım süresi bilgisinin kanıtı değil; operasyonel ölçeği sezdiriyor. |
+| `assets/figures/hidrojen/01-hidrojen-uretim-yollari.jpeg` | `nb_img_029` | `docs/hidrojen-ve-enerji-depolama.md` | Hidrojen üretimi | Renk sınıflandırmasını hızlıca ayırmak için kullanıldı; kaynak durumu kısmen net. |
+| `assets/figures/hidrojen/02-ab-yesil-anlasma-hidrojen.JPG` | `nb_img_034` | `docs/hidrojen-ve-enerji-depolama.md` | Teşvikler | Haber ekran görüntüsü; politika/yatırım ölçeğini göstermek için kullanıldı, tek başına kaynak kanıtı değil. |
+| `assets/figures/hidrojen/03-nrel-hidrojen-konsorsiyumu.JPG` | `nb_img_039` | `docs/hidrojen-ve-enerji-depolama.md` | NREL ve Ar-Ge | Kaynakça [19] ile ilişkili; hidrojenin Ar-Ge hattını görünür kılıyor. |
+| `assets/figures/hidrojen/04-nrel-pv-2014.JPG` | `nb_img_040` | `docs/hidrojen-ve-enerji-depolama.md` | Teknoloji eğrisi | Delftx/NREL ders notu bağlamında notebook'ta geçti; hidrojen değil, teknoloji gelişimi analojisi. |
+| `assets/figures/hidrojen/05-nrel-pv-2022.JPG` | `nb_img_041` | `docs/hidrojen-ve-enerji-depolama.md` | Teknoloji eğrisi | 2014 çizelgesiyle karşılaştırma için kullanıldı; teknoloji verimlerinin zamanla değişebildiğini gösteriyor. |
+| `assets/figures/hidrojen/06-hidrojen-verimlilik-zinciri.jpg` | `nb_img_044` | `docs/hidrojen-ve-enerji-depolama.md` | Verimlilik itirazı | Dönüşüm kayıplarını gösteriyor; "hidrojen kötüdür" sonucunun tek dayanağı yapılmadı. |
+| `assets/figures/hidrojen/07-enerji-kayiplari-karsilastirma.jpg` | `nb_img_047` | `docs/hidrojen-ve-enerji-depolama.md` | Enerji kayıpları kıyası | Kaynakça [2] ile ilişkili kabul edildi; görsel-kaynak eşleşmesi kısmen net. |
+| `assets/figures/hidrojen/08-hidrojen-istasyonlari.jpg` | `nb_img_045; nb_img_046` | `docs/hidrojen-ve-enerji-depolama.md` | Hidrojenli araç altyapısı | Kaynakça [38] ile ilişkili; kesin pazar verisi değil, altyapı gerekliliğini göstermek için kullanıldı. |
+| `assets/figures/hidrojen/09-gunluk-talep-depolama.png` | `nb_img_048; nb_img_049` | `docs/hidrojen-ve-enerji-depolama.md` | Depolama | Kaynakça [25] ile ilişkili; talep/üretim zaman uyuşmazlığı için kullanıldı. |
+| `assets/figures/verimlilik/01-thermoflow-insan-is-uretimi.jpeg` | `nb_img_050` | `docs/verimlilik-hipotez-ve-insan-makine.md` | Thermoflow | İnsan/çeki hayvanı düşünce deneyinin kaynaklandığı iş üretimi notunu gösteriyor. |
+| `assets/figures/verimlilik/02-at-kalori-kaynagi.jpg` | `nb_img_057` | `docs/verimlilik-hipotez-ve-insan-makine.md` | Kalori kıyası | Kesin veterinerlik verisi değil; kaba düşünce deneyinin girdisi. |
+| `assets/figures/verimlilik/03-t3000-kontrol-odasi.jpeg` | `nb_img_011` | `docs/verimlilik-hipotez-ve-insan-makine.md` | T3000 | Operatörü gerçek operasyon ortamında düşünmek için bağlam görseli. |
+| `assets/figures/verimlilik/04-lorentz-yuk-devresi.png` | `nb_img_058` | `docs/verimlilik-hipotez-ve-insan-makine.md` | Lorentz/yük | Basit devre sezgisi; jeneratörün fiziksel tam modeli gibi sunulmamalı. |
 
 ## LaTeX / Markdown ile Yeniden Kurulan Kısımlar
 
