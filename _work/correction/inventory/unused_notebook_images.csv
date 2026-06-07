@@ -1,4 +1,4 @@
-﻿image_id,sequence,sha256,width,height,original_name,nearest_heading,previous_text,next_text,suggested_target_file
+image_id,sequence,sha256,width,height,original_name,nearest_heading,previous_text,next_text,suggested_target_file
 nb_img_001,1,c7c169a29cc85886e51047b788963f50b6195343e05e0b2b80409a363f99aaec,2500,2500,image2.png,,,KARABÜK ÜNİVERSİTESİ,README.md
 nb_img_002,2,89c856c45fb5f4340ae7fcb4e67d12de58272052d01b47ee5875faf94b33d30c,164,198,image3.png,"KARABÜK ÜNİVERSİTESİ
 MÜHENDİSLİK FAKÜLTESİ",Öğrencinin İmzası:,Staj Yapılan İş Yeri,README.md
@@ -41,11 +41,11 @@ MÜHENDİSLİK FAKÜLTESİ","İmza, Kaşe","Bu arada, Siemens Enerji’nin, Siem
 nb_img_027,27,652a828866eb638bbf84e797d2be7dcef5b9b50264281d11fef6139e6f946e2a,520,390,image28.jpeg,"KARABÜK ÜNİVERSİTESİ
 MÜHENDİSLİK FAKÜLTESİ",.,Hidrojenin Yapısı,docs/hidrojen-ve-enerji-depolama.md
 nb_img_028,28,0e9894d9fa3ab0225e6bb7c32e7184542d794fe2fc586a949a97409edb85a425,540,308,image29.jpeg,"KARABÜK ÜNİVERSİTESİ
-MÜHENDİSLİK FAKÜLTESİ","Gri Hidrojen: Doğalgazdan, fosil yakıtlardan üretilir.","Kahverengi Hidrojen ve Gri Hidrojen üretim yönteminde büyük miktarda CO2 açığa çıkıyor. Bu iki yöntemin, çevrecilik açısından durumu, dizel jeneratörlerle şarj edilen elektrikli arabalara benziyor sanki. (Ertuğrul Bey’in bir anlatımından i…",docs/hidrojen-ve-enerji-depolama.md
+MÜHENDİSLİK FAKÜLTESİ","Gri Hidrojen: Doğalgazdan, fosil yakıtlardan üretilir.","Kahverengi Hidrojen ve Gri Hidrojen üretim yönteminde büyük miktarda CO2 açığa çıkıyor. Bu iki yöntemin, çevrecilik açısından durumu, dizel jeneratörlerle şarj edilen elektrikli arabalara benziyor sanki. ([SANSÜR]’in bir anlatımından i…",docs/hidrojen-ve-enerji-depolama.md
 nb_img_030,30,596152eeaa5cdbf17f9c562445ba06a2f10bb3a0a7949a6c1ac5cd6e9a7ae1fc,274,180,image31.jpeg,"KARABÜK ÜNİVERSİTESİ
-MÜHENDİSLİK FAKÜLTESİ","Kahverengi Hidrojen ve Gri Hidrojen üretim yönteminde büyük miktarda CO2 açığa çıkıyor. Bu iki yöntemin, çevrecilik açısından durumu, dizel jeneratörlerle şarj edilen elektrikli arabalara benziyor sanki. (Ertuğrul Bey’in bir anlatımından i…",İŞ YAPRAĞI,docs/hidrojen-ve-enerji-depolama.md
+MÜHENDİSLİK FAKÜLTESİ","Kahverengi Hidrojen ve Gri Hidrojen üretim yönteminde büyük miktarda CO2 açığa çıkıyor. Bu iki yöntemin, çevrecilik açısından durumu, dizel jeneratörlerle şarj edilen elektrikli arabalara benziyor sanki. ([SANSÜR]’in bir anlatımından i…",İŞ YAPRAĞI,docs/hidrojen-ve-enerji-depolama.md
 nb_img_031,31,01b00582f0ec86680fcd58b8cac713f4841200b19884cefdb9f6d92d87e0aaed,275,183,image32.jpeg,"KARABÜK ÜNİVERSİTESİ
-MÜHENDİSLİK FAKÜLTESİ","Kahverengi Hidrojen ve Gri Hidrojen üretim yönteminde büyük miktarda CO2 açığa çıkıyor. Bu iki yöntemin, çevrecilik açısından durumu, dizel jeneratörlerle şarj edilen elektrikli arabalara benziyor sanki. (Ertuğrul Bey’in bir anlatımından i…",İŞ YAPRAĞI,docs/hidrojen-ve-enerji-depolama.md
+MÜHENDİSLİK FAKÜLTESİ","Kahverengi Hidrojen ve Gri Hidrojen üretim yönteminde büyük miktarda CO2 açığa çıkıyor. Bu iki yöntemin, çevrecilik açısından durumu, dizel jeneratörlerle şarj edilen elektrikli arabalara benziyor sanki. ([SANSÜR]’in bir anlatımından i…",İŞ YAPRAĞI,docs/hidrojen-ve-enerji-depolama.md
 nb_img_032,32,833b84b860b785cb8860187d3743cea051bc173c0f4103c7519654bc201e3abc,762,457,image33.JPG,"KARABÜK ÜNİVERSİTESİ
 MÜHENDİSLİK FAKÜLTESİ","Mavi Hidrojen: Yine fosil yakıtlardan üretiliyor, fakat C02’yi tutup, saklayabiliyoruz.","Yeşil Hidrojen: Elektroliz yönteminde, elektrik akımını kullanarak, suyu, bileşenlerine ayırırız. Eğer kullandığımız elektrik de yenilebilir enerjilerden üretilmişse, güneş ve rüzgar gibi, o zaman yeşil hidrojen olarak sınıflandırabiliriz.",docs/hidrojen-ve-enerji-depolama.md
 nb_img_033,33,7f24e928651e6d46b051dfb18ff20269325e83b0e41dc129ee3ff4451b3a14fd,769,384,image34.JPG,"KARABÜK ÜNİVERSİTESİ

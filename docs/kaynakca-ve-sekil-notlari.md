@@ -19,7 +19,7 @@ Kaynaklar staj defterindeki kaynakça bölümünden ve DOCX içindeki hyperlink 
 | 23 | Idaho National Laboratory, [Microreactors](https://inl.gov/trending-topic/microreactors/). | Nükleer mikroreaktör arka planında geçti. Final yazılara alınmadı. |
 | 24 | Milliyet, [Patlamaya neden olan madde Türkiye'de yasak](https://www.milliyet.com.tr/yerel-haberler/istanbul/merkez/patlamaya-neden-olan-madde-turkiyede-yasak-6281062), 2020. | Nükleer araç/sivil kullanım spekülasyonu bağlamında geçti. Final yazılara alınmadı. |
 | 25 | Alemayehu Desta, "Gaussian-Based Smoothing of Wind and Solar Power Productions Using Batteries", *International Journal of Mechanical Engineering and Robotics Research*, 2017. | Günlük talep, güneş/rüzgar üretimi ve depolama ihtiyacı grafiği için defterde geçti. |
-| 26 | Dr. Bahtiyar Eren, [31. Etkililik, Etkinlik ve Verimlilik Nedir?](https://www.youtube.com/watch?v=JO7z2jLscdE). | Etkililik, etkinlik ve verimlilik kavramlarının ilk öğrenildiği kaynak olarak defterde geçti. Video kaynağı olduğu için doğrulama gerekebilir. |
+| 26 | Dr. [SANSÜR], [31. Etkililik, Etkinlik ve Verimlilik Nedir?](https://www.youtube.com/watch?v=JO7z2jLscdE). | Etkililik, etkinlik ve verimlilik kavramlarının ilk öğrenildiği kaynak olarak defterde geçti. Video kaynağı olduğu için doğrulama gerekebilir. |
 | 30 | Ayşe Tolga, [Günlük kalori ihtiyacı hesaplama](https://www.aysetolga.com/gunluk-kalori-ihtiyaci-hesaplama). | İnsan için günlük kalori ihtiyacı hesabında defterde kullanıldı. Hesap kişisel girdilere bağlı olduğu için kesin akademik kaynak gibi kullanılmadı. |
 | 31 | Equine Ink, [How many calories does your horse get per day?](https://equineink.com/2012/04/14/how-many-calories-does-your-horse-get-per-day/). | Atın günlük kalori ihtiyacı için defterde kullanıldı. Düşünce deneyi için yeterli kaba bağlam; kesin biyoloji/veterinerlik kaynağı gibi sunulmadı. |
 | 32 | Wikipedia, [Electrical load](https://en.wikipedia.org/wiki/Electrical_load). | Lorentz/yük direnci sezgisinde kullanılan basit devre görselinin kaynağı olarak geçti. Fiziksel tam model gibi kullanılmadı. |
@@ -56,8 +56,8 @@ Bu bölümdeki maddeler staj defterinde geçti, ama final yazılarda kritik iddi
 | No | Defterdeki kayıt | Not |
 |---:|---|---|
 | 27 | `http://twitter-com.aurebeshtranslator.net/AlkolTanrisii?lang=hi` | Notebook içinde geçti, doğrulama gerekebilir. Kaynak niteliği belirsiz. Final yazılarda kullanılmadı. |
-| 33 | "gokberk baba, başlıpınnbu bilmi. çorum, 1992..." | Kaynakça içinde kalmış ama anlamlı kaynak değil. Final yazılarda kullanılmadı. |
-| 34 | İlber Ortaylı, "avusturyalıler", 1999. | Kayıt eksik ve doğrulanmamış. Final yazılarda kullanılmadı. |
+| 33 | "[SANSÜR], başlıpınnbu bilmi. çorum, 1992..." | Kaynakça içinde kalmış ama anlamlı kaynak değil. Final yazılarda kullanılmadı. |
+| 34 | [SANSÜR], "avusturyalıler", 1999. | Kayıt eksik ve doğrulanmamış. Final yazılarda kullanılmadı. |
 | 35 | Uday M. Apte, Richard B. Chase, "A history of research in service operations: What's the big idea?", Elsevier, 2002. | Staj kaynakçasında var; final yazıların ana argümanında kullanılmadı. Gerekirse daha sonra doğrulanmalı. |
 | 36 | W. Chan Kim, Renée Mauborgne, "Adil Süreç", *Harvard Business Review*, 1997. | Staj kaynakçasında var; final yazıların ana argümanında kullanılmadı. Gerekirse daha sonra doğrulanmalı. |
 | - | `[SANSÜR]`, kişisel görüşme, Eylül 2022. | Eskişehir/Turhal buhar türbinleri bağlamında defterde geçti. Yazıda tanıklık gibi ele alındı; teknik kanıt gibi kullanılmadı. |

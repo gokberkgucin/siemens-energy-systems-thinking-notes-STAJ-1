@@ -173,7 +173,7 @@ Kontrolü
 
 [0082] Eskişehir Şeker Fabrikası'ndan emekli olmuş bir çalışanın, konuyla ilgili, ilk elden tanık olduğu bir olayı yazmak istiyorum. * :? İki nokta mı olmalı?
 
-[0083] “Çalıştığı dönemde (Belki 30 sene önce) Eskişehir'deki fabrikaya, bir firmadan Alman mühendisler ziyarete gelir(Başka bir makine için.). Orada, 70 senelik Siemens buhar türbinlerinin halen çalışıyor olmasına bir hayli şaşırmışlar. Ve oradaki Türk çalışanlara, makineye ne kadar iyi baktığı konusunda övgüler de bulunmuşlar. Nitekim kendisi de, biz de (Genel olarak ülkemizi kastediyor.) az bulunan şeylerin değerli olduğunu, makinelerin hepsini, gözü gibi bakıp koruduklarını söyledikten sonra Siemens’in makinelerinin de çok kaliteli olduğunu” söylemekten geri durmadı (Kemal Buhan, kişisel görüşme, Eylül 2022).
+[0083] “Çalıştığı dönemde (Belki 30 sene önce) Eskişehir'deki fabrikaya, bir firmadan Alman mühendisler ziyarete gelir(Başka bir makine için.). Orada, 70 senelik Siemens buhar türbinlerinin halen çalışıyor olmasına bir hayli şaşırmışlar. Ve oradaki Türk çalışanlara, makineye ne kadar iyi baktığı konusunda övgüler de bulunmuşlar. Nitekim kendisi de, biz de (Genel olarak ülkemizi kastediyor.) az bulunan şeylerin değerli olduğunu, makinelerin hepsini, gözü gibi bakıp koruduklarını söyledikten sonra Siemens’in makinelerinin de çok kaliteli olduğunu” söylemekten geri durmadı ([SANSÜR], kişisel görüşme, Eylül 2022).
 
 [0084] [4]Almanların kalite anlayışına bir de sevimli olmayan bir örnek vermek istiyorum. 2.Dünya Savaşı sırasında alman savunma sanayii ürünlerinin kalitesi kendileri açısından bir sorun bile yaratmış. Fabrikadan çıkar çıkmaz cepheye sevk edilen, en fazla 1 ay içinde düşman başında patlayacak bir top mermisini, 50 yıl raf ömrü olacak biçimde tasarlamanın ya da sadece Sovyetleri* işgal harekâtında kullanılacak bir tankı/n* Afrika çöl sıcaklarında da aynı performansla çalışmasını garanti eden bir tasarım, malzeme seçimi ve işçilik ile üretmeye çalışmanın olumsuz etkisini görmüşler. Savaş ürünleri için gösterilen bu fazlaca özen, üretim hızını/kapasitesini, istenen seviyelere (Abd seviyesi.) çıkarmalarındaki en büyük engellerden biri olduğu söyleniyor.
 
@@ -211,7 +211,7 @@ Kontrolü
 
 [0101] Resimdeki küçük elektronik cihaz, üreticisi tarafından “TINY GPS LOGGER FOR THE INTERNET OF ANIMALS” etiketiyle satılıyor. Muhtemelen bu ürün, rakiplerinden küçüklük özelliği açısından öndedir. Çünkü potansiyel müşterilerinin, ürünün ne kadar küçük olduğunu gerçekten anlamasını istiyor gibi. Boyutları herkesçe bilinen bozuk para ile bu anlama işini kolaylaştırıyor. Ayrıca, ürününe güvenmeyen bir satıcı, pazarlama yöntemi açısından, yukarıdaki örneğin tam tersi bir yol izliyor olması olanaklıdır.
 
-[0102] Bir dinozor bilimci ya da bir Celal Şengör Hoca değilsek, yukarıdaki [3] dinozor türlerinin büyüklüklerini ölçekli insan şekli olmadan anlamamız kolay olmazdı.
+[0102] Bir dinozor bilimci ya da bir [SANSÜR] değilsek, yukarıdaki [3] dinozor türlerinin büyüklüklerini ölçekli insan şekli olmadan anlamamız kolay olmazdı.
 
 [0103] [IGNORE] İŞ YAPRAĞI
 
@@ -361,7 +361,7 @@ Kontrolü
 
 [0176] Gri Hidrojen: Doğalgazdan, fosil yakıtlardan üretilir.
 
-[0177] Kahverengi Hidrojen ve Gri Hidrojen üretim yönteminde büyük miktarda CO2 açığa çıkıyor. Bu iki yöntemin, çevrecilik açısından durumu, dizel jeneratörlerle şarj edilen elektrikli arabalara benziyor sanki. (Ertuğrul Bey’in bir anlatımından ilham aldım.)
+[0177] Kahverengi Hidrojen ve Gri Hidrojen üretim yönteminde büyük miktarda CO2 açığa çıkıyor. Bu iki yöntemin, çevrecilik açısından durumu, dizel jeneratörlerle şarj edilen elektrikli arabalara benziyor sanki. ([SANSÜR]’in bir anlatımından ilham aldım.)
 
 [0178] [IGNORE] İŞ YAPRAĞI
 
@@ -787,7 +787,7 @@ Kontrolü
 
 [0389] Bir hayvanın 10 BİRİM değil, 10 BİRİM’den daha az olacağını iddia etmiştim.
 
-[0390] Bu deneyi, Sertaç Bey’e anlatmıştım. Onun da ilgisini çekmişti ve araştırmaya başlamıştık. O zaman ki baktığımız kaynakları hatırlayamadım ancak elde ettiğimiz sonuçlar, şimdi yazacaklarımla oldukça benzer.
+[0390] Bu deneyi, [SANSÜR]’e anlatmıştım. Onun da ilgisini çekmişti ve araştırmaya başlamıştık. O zaman ki baktığımız kaynakları hatırlayamadım ancak elde ettiğimiz sonuçlar, şimdi yazacaklarımla oldukça benzer.
 
 [0391] [IGNORE] .
 
@@ -929,7 +929,7 @@ Kontrolü
 
 [0460] Ders-soru cevap-sınama havasında geçen bir sohbette;
 
-[0461] “Bir güç santralinde; jeneratörün milini döndürme kuvvetini elde ettik ve jeneratörü döndürerek elektrik enerjisini elde ediyoruz. Peki bu jeneratör milinin dönme hızı nedir?” diye sordu Anıl Bey.
+[0461] “Bir güç santralinde; jeneratörün milini döndürme kuvvetini elde ettik ve jeneratörü döndürerek elektrik enerjisini elde ediyoruz. Peki bu jeneratör milinin dönme hızı nedir?” diye sordu [SANSÜR].
 
 [0462] Cevabı doğrudan bilmiyordum ama şebeke elektriğinin 50 Hz frekansta olduğu bilgisinden yola çıkarak saniyede 50 kez dönüyor galiba dedim.
 
@@ -945,7 +945,7 @@ Kontrolü
 
 [0468] Oldukça şaşırmıştım cevaba.
 
-[0469] Anıl Bey’in anlatıklarından sonra zihnimde bu basit devre [32] canlandı ve bunun mantığını doğrulatmak amacıyla, şu soruyu sordum sordum kendisine:
+[0469] [SANSÜR]’in anlatıklarından sonra zihnimde bu basit devre [32] canlandı ve bunun mantığını doğrulatmak amacıyla, şu soruyu sordum sordum kendisine:
 
 [0470] Jeneratörü şebekeye hiç bağlamamış olursak,  hiç yük direnci olmayacak (RL= 0 Ohm) ve o zaman çok kolay dönebilen jeneratör çok hızlı dönmeye başlar değil mi? dedim.
 
@@ -953,6 +953,6 @@ Kontrolü
 
 [0472] İşte o yüzden santrallerde SPPA T3000 Kontrol programı var.
 
-[0473] Termik santraller çalışırken, yük değişimleri olduğunda;(Su ısıtıcısının çalıştırma düğmesine basma anı ya da suyu kaynattıktan sonra kendiliğinden elektriği kesip kapanma anı birer örnek olabilir.) saliseler-saniyeler içerisinde çalışmayı durdurması gerekebilir. Hatta bir keresinde, Afşin Termik Santralinde, tam bu sebepten kaynaklı bir kaza bile yaşanmış. Keskin bıçaklı, tonlarca ağırlığı olan devasa makineler yerinden fırlamış. “ dedi Anıl Bey.
+[0473] Termik santraller çalışırken, yük değişimleri olduğunda;(Su ısıtıcısının çalıştırma düğmesine basma anı ya da suyu kaynattıktan sonra kendiliğinden elektriği kesip kapanma anı birer örnek olabilir.) saliseler-saniyeler içerisinde çalışmayı durdurması gerekebilir. Hatta bir keresinde, Afşin Termik Santralinde, tam bu sebepten kaynaklı bir kaza bile yaşanmış. Keskin bıçaklı, tonlarca ağırlığı olan devasa makineler yerinden fırlamış. “ dedi [SANSÜR].
 
 [0474] [IGNORE] .
