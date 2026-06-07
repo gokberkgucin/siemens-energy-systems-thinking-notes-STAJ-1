@@ -6,6 +6,8 @@ Staj sırasında duyduğum, okuduğum ve gördüğüm bazı şeyleri sonradan te
 
 Bu resmi bir Siemens Energy dokümanı değildir. Kişisel gözlem, okuma ve yeniden düşünme dosyasıdır.
 
+Kamuya açık hale getirirken kişi adlarını `[SANSÜR]` biçiminde bıraktım. Buradaki amaç kişisel öğrenme izini korumak; konuşmalara dahil olmuş kişileri açık kaynak repo içinde görünür yapmak değil.
+
 ## Bu Repo Neden Var?
 
 İlk staj defterimde bazı bölümler sadece bilgi notu gibi kalıyordu. Şirket bölümleri, tarihsel bilgiler, teknik tanımlar, kaynak parçaları... Bunların hepsi tek tek gerekli görünebilir; ama hepsi repo'ya taşınırsa bu defterin daha ilginç tarafı kaybolur.
